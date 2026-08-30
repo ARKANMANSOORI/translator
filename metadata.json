@@ -1,0 +1,8 @@
+{
+  "name": "ABDUL Translator",
+  "description": "Auto-detects source language and translates seamlessly while preserving exact formatting, indentation, code syntax, markdown, and structure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
